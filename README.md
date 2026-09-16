@@ -1,3 +1,7 @@
+## Parcours francais
+
+Un parcours documentaire en francais est disponible dans [docs/fr/](docs/fr/).
+
 > [!IMPORTANT]  
 > This repository is in the process of being migrated to the [Foundry](https://getfoundry.sh) Ethereum application development environment. Developers wishing to integrate and/or develop on the CoW Protocol smart contracts with hardhat should refer to branch [`v1`](https://github.com/cowprotocol/contracts/tree/v1).
 
